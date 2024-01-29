@@ -1,4 +1,4 @@
-# Java MQTT 客户端使用示例
+# Java MQTT 客户端使用
 
 - 客户端库：[Eclipse Paho Java Client](https://github.com/eclipse/paho.mqtt.java)
 - 构建工具：Maven
